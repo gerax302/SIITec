@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AgregarDocumento.php" server="itszas.edu.mx" local="130591214400000000" remote="130591214400000000" Dst="1" />
+<file name="AltaUsuario.php" server="itszas.edu.mx" local="130573624200000000" remote="130573624200000000" Dst="1" />
+<file name="conexion.php" server="itszas.edu.mx" local="130580633400000000" remote="130580633400000000" Dst="1" />
+<file name="consultaDocumentosPersonalizado.php" server="itszas.edu.mx" local="130573624200000000" remote="130573624200000000" Dst="1" />
+<file name="ConsultasdeDocumentos.php" server="itszas.edu.mx" local="130573624200000000" remote="130573624200000000" Dst="1" />
+<file name="eliminarDocumentoLogico.php" server="itszas.edu.mx" local="130573624200000000" remote="130573624200000000" Dst="1" />
+<file name="eliminarUsuario.php" server="itszas.edu.mx" local="130573624200000000" remote="130573624200000000" Dst="1" />
+<file name="error_log" server="itszas.edu.mx" local="130574567400000000" remote="130574567400000000" Dst="1" />
+<file name="MensajeElimina.php" server="itszas.edu.mx" local="130573624200000000" remote="130573624200000000" Dst="1" />
+<file name="MensajeEliminaDoc.php" server="itszas.edu.mx" local="130573624200000000" remote="130573624200000000" Dst="1" />
+<file name="modificaDocumentoLogico.php" server="itszas.edu.mx" local="130580641800000000" remote="130580641800000000" Dst="1" />
+<file name="modificarDocumentos.php" server="itszas.edu.mx" local="130573624200000000" remote="130573624200000000" Dst="1" />
+<file name="modificarUsuarios.php" server="itszas.edu.mx" local="130573624200000000" remote="130573624200000000" Dst="1" />
+<file name="modificaUsuario.php" server="itszas.edu.mx" local="130573624200000000" remote="130573624200000000" Dst="1" />
+<file name="MuestraDocumentos.php" server="itszas.edu.mx" local="130591208400000000" remote="130591208400000000" Dst="1" />
+<file name="muestraUsuario.php" server="itszas.edu.mx" local="130573624200000000" remote="130573624200000000" Dst="1" />
+<file name="MuestraUsuarios.php" server="itszas.edu.mx" local="130573624200000000" remote="130573624200000000" Dst="1" />
+<file name="Notificaciones.php" server="itszas.edu.mx" local="130591194600000000" remote="130591194600000000" Dst="1" />
+<file name="Principal.php" server="itszas.edu.mx" local="130591188000000000" remote="130591188000000000" Dst="1" />
+<file name="registrarDocumento.php" server="itszas.edu.mx" local="130580710200000000" remote="130580710200000000" Dst="1" />
+<file name="registraUsuario.php" server="itszas.edu.mx" local="130573624200000000" remote="130573624200000000" Dst="1" />
+<file name="salir.php" server="itszas.edu.mx" local="130573624200000000" remote="130573624200000000" Dst="1" />
+</dwsync>
